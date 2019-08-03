@@ -1,0 +1,11 @@
+Package: ttyrun
+Version: 1.0-1
+Section: utils
+Priority: optional
+Architecture: all
+Depends: perl
+Maintainer: Alejandro González <alejandro.gonzalez.correo@gmail.com>
+Homepage: https://github.com/AlexTMjugador/ttyrun
+Description: ttyrun
+ Runs a command in the first TTY device a user logged in, just like if the user typed it.
+ In the background, it inserts simulated keypresses using the TIOCSTI ioctl.
