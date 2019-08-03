@@ -17,7 +17,7 @@ $ make
 ```
 
 # Installation
-Installing the .deb package is pretty straightforward:
+You can get the official .deb package from the [releases page](https://github.com/AlexTMjugador/ttyrun/releases). Installing the package is pretty straightforward:
 
 ```console
 # dpkg -i ttyrun_1.0-1.deb
